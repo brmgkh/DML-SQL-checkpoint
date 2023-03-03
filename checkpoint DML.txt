@@ -1,0 +1,3 @@
+INSERT INTO customer (customer_id, customer_name, customer_tel)
+VALUES ('c01', 'ali', '71150232'),
+       ('c02', 'asma', '74859648');
